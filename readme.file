@@ -1,0 +1,42 @@
+# income expense calculator
+
+# ExpenseTracker
+
+## Description
+
+This is income expense calculator named as ExpenseTracker.It is a calculator tool that you can use to monitor your all income, expenses and you can note on the history of transactions that you made
+
+## How to use this app
+
+1. Run the app by executing the `index.html` file in a web browser.
+2. Go to the dashboard and click the income and down there you can add your income amount and description. Same as it goes to Expenses too.
+3. You can edit, delete the expenses and incomes that you already registered.
+4. Based on your expenses and incomes, that chart shows the flowchart of the transactions
+5. All incomes, expenses, and your available balance can be seen on top.
+
+## Features
+
+1. Application for tracking expenses.
+2. Automatically stores the data when you add entries.
+3. math detection.
+
+## Technologies used
+
+1.  HTML
+2.  CSS
+3.  JAVASCRIPT (DOM MANIPULATION)
+
+## How to use
+
+1. Clonee the repository using the following command:
+
+...bash
+git clone
+...
+
+2. Navigate to the project directory:
+   ...bash
+   cd ExpenseTracker
+   ...
+
+3. Run the game by opening the `index.html` file in a web browser.
